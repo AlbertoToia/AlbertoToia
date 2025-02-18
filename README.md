@@ -1,5 +1,4 @@
 # 👋 Greetings, I'm Alberto
-
 ## 🚀 About Me
 
 I'm a Computer Engineering student with a passion for Financial Engineering and Quantitative Finance.
@@ -8,6 +7,13 @@ I'm a Computer Engineering student with a passion for Financial Engineering and 
 - 💼 Currently working at Unicredit in Valuation Risk Management
 - 🏛 Founder of Sharpee - The only platform needed for European investors
 - 📊 Passionate about quantitative finance and investing
+
+
+## 🏛 Sharpee: Empowering European Investors
+
+Sharpee is the only platform European investors need to build and backtest their investment portfolios. As the founder, I'm committed to providing insightful tools for portfolio analysis and investiments optimization.
+
+[Discover Sharpee](https://www.sharpeeinvesting.com)
 
 ## 🛠 Expertise
 
@@ -21,18 +27,6 @@ I'm a Computer Engineering student with a passion for Financial Engineering and 
 ![MATLAB](https://img.shields.io/badge/MATLAB-22333B?style=flat-square&logoColor=EAE0D5)
 
 </div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albertotoia&show_icons=true&theme=gruvbox_light" alt="GitHub Stats" />
-</div>
-
-## 🏛 Sharpee: Empowering European Investors
-
-Sharpee is the only platform European investors need to build and backtest their investment portfolios. As the founder, I'm committed to providing cutting-edge tools for financial analysis and portfolio optimization.
-
-[Discover Sharpee](https://www.albertotoia.com)
 
 ## 📫 Connect
 
