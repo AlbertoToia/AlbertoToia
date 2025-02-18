@@ -3,15 +3,15 @@
 
 I'm a Computer Engineering student with a passion for Financial Engineering and Quantitative Finance.
 
-- 📚 Computer Engineering student, looking for Financial Engineering
-- 💼 Currently working at Unicredit in Valuation Risk Management
-- 🏛 Founder of Sharpee - The only platform needed for European investors
-- 📊 Passionate about quantitative finance and investing
+- 📚 **Computer Engineering** student, looking for Financial Engineering
+- 💼 Currently working at **Unicredit** in Valuation Risk Management
+- 🏛 Founder of **Sharpee** - The only platform needed for European investors
+- 📊 Passionate about **quantitative finance and investing**
 
 
 ## 🏛 Sharpee: Empowering European Investors
 
-Sharpee is the only platform European investors need to build and backtest their investment portfolios. As the founder, I'm committed to providing insightful tools for portfolio analysis and investiments optimization.
+Sharpee is the only platform European investors need to build and backtest their investment portfolios. As the founder, I'm committed to providing **insightful tools for portfolio analysis and investiments optimization**.
 
 [Discover Sharpee](https://www.sharpeeinvesting.com)
 
