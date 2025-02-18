@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Greetings, I'm Alberto
 
-<!--
-**AlbertoToia/AlbertoToia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://img.shields.io/badge/Quantitative%20Finance-22333B?style=for-the-badge&logoColor=EAE0D5" alt="Quantitative Finance"/>
+  <img src="https://img.shields.io/badge/Financial%20Engineering-22333B?style=for-the-badge&logoColor=EAE0D5" alt="Financial Engineering"/>
+  <img src="https://img.shields.io/badge/Risk%20Management-22333B?style=for-the-badge&logoColor=EAE0D5" alt="Risk Management"/>
+</div>
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Engineering student with a passion for Financial Engineering and Quantitative Finance.
+
+- 📚 Computer Engineering student, looking for Financial Engineering
+- 💼 Currently working at Unicredit in Valuation Risk Management
+- 🏛 Founder of Sharpee - The only platform needed for European investors
+- 📊 Passionate about quantitative finance and investing
+
+## 🛠 Expertise
+
+<div align="center">
+
+![Quantitative Finance](https://img.shields.io/badge/Quantitative%20Finance-22333B?style=flat-square&logoColor=EAE0D5)
+![Financial Engineering](https://img.shields.io/badge/Financial%20Engineering-22333B?style=flat-square&logoColor=EAE0D5)
+![Risk Management](https://img.shields.io/badge/Risk%20Management-22333B?style=flat-square&logoColor=EAE0D5)
+![Portfolio Management](https://img.shields.io/badge/Portfolio%20Management-22333B?style=flat-square&logoColor=EAE0D5)
+![Derivatives Pricing](https://img.shields.io/badge/Derivatives%20Pricing-22333B?style=flat-square&logoColor=EAE0D5)
+![Python](https://img.shields.io/badge/Python-22333B?style=flat-square&logo=python&logoColor=EAE0D5)
+![MATLAB](https://img.shields.io/badge/MATLAB-22333B?style=flat-square&logoColor=EAE0D5)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=albertotoia&show_icons=true&theme=gruvbox_light" alt="GitHub Stats" />
+</div>
+
+## 🏛 Sharpee: Empowering European Investors
+
+Sharpee is the only platform European investors need to build and backtest their investment portfolios. As the founder, I'm committed to providing cutting-edge tools for financial analysis and portfolio optimization.
+
+[Discover Sharpee](https://www.albertotoia.com)
+
+## 📫 Connect
+
+<div align="center">
+  
+[![Github](https://img.shields.io/badge/-Github-C6AC8F?style=for-the-badge&logo=github&logoColor=0A0908)](https://github.com/AlbertoToia)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-C6AC8F?style=for-the-badge&logo=linkedin&logoColor=0A0908)](https://linkedin.com/in/AlbertoToia)
+[![Email](https://img.shields.io/badge/-Email-C6AC8F?style=for-the-badge&logo=gmail&logoColor=0A0908)](mailto:info@albertotoia.com)
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=albertotoia&color=5E503F&style=flat-square" alt="Profile views" />
+</div>
