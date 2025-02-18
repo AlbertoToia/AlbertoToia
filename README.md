@@ -1,11 +1,5 @@
 # 👋 Greetings, I'm Alberto
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Quantitative%20Finance-22333B?style=for-the-badge&logoColor=EAE0D5" alt="Quantitative Finance"/>
-  <img src="https://img.shields.io/badge/Financial%20Engineering-22333B?style=for-the-badge&logoColor=EAE0D5" alt="Financial Engineering"/>
-  <img src="https://img.shields.io/badge/Risk%20Management-22333B?style=for-the-badge&logoColor=EAE0D5" alt="Risk Management"/>
-</div>
-
 ## 🚀 About Me
 
 I'm a Computer Engineering student with a passion for Financial Engineering and Quantitative Finance.
