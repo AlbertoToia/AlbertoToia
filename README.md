@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>💼 Computer Engineering Student | Quantitative Finance Enthusiast | Founder</h3>
+  <h3>💼 Financial Engineering, Computer Engineering Student</h3>
   
   [![Github](https://img.shields.io/badge/-Github-22333B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlbertoToia)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-22333B?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AlbertoToia)
@@ -14,10 +14,10 @@
 ## 🚀 About Me
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="250" />
 
-- 📚 **Computer Engineering** student, focusing on quantitative finance
-- 💼 Currently working at **Unicredit** in Valuation Risk Management
+- 📚 **Computer Engineering/Mathematical Engineering** student, focusing on quantitative finance
+- 💼 Looking for a **trading** role
 - 🏛 Founder of **Sharpee** - The only platform needed for European long-term investors
-- 📊 Passionate about **quantitative finance and passive investing**
+- 📊 Passionate about **quantitative finance**
 
 <br clear="right"/>
 
